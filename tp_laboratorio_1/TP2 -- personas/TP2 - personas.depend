@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1525369937 source:c:\nanobots\tp2 - personas\bajapersona.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+	"bajaPersona.h"
+
+1525196336 c:\nanobots\tp2 - personas\persona.h
+	<stdbool.h>
+
+1525196388 c:\nanobots\tp2 - personas\bajapersona.h
+
+1525369943 source:c:\nanobots\tp2 - personas\grafico.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"grafico.h"
+
+1525196366 c:\nanobots\tp2 - personas\grafico.h
+
+1525369949 source:c:\nanobots\tp2 - personas\graficopersona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Persona.h"
+	"grafico.h"
+
+1525369954 source:c:\nanobots\tp2 - personas\listadopersonas.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+	"listadoPersonas.h"
+
+1525196351 c:\nanobots\tp2 - personas\listadopersonas.h
+
+1525196432 source:c:\nanobots\tp2 - personas\main.c
+	<string.h>
+	"Persona.h"
+	"grafico.h"
+	"menuPantalla.h"
+
+1525196358 c:\nanobots\tp2 - personas\menupantalla.h
+
+1525369963 source:c:\nanobots\tp2 - personas\menupantalla.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+	"altaPersona.h"
+	"bajaPersona.h"
+	"listadoPersonas.h"
+	"graficoPersona.h"
+
+1525196379 c:\nanobots\tp2 - personas\altapersona.h
+
+1525196374 c:\nanobots\tp2 - personas\graficopersona.h
+
+1525196397 source:c:\nanobots\tp2 - personas\modificarpersona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Persona.h"
+	"modificarPersona.h"
+
+1525196345 c:\nanobots\tp2 - personas\modificarpersona.h
+
+1525196415 source:c:\nanobots\tp2 - personas\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Persona.h"
+	"grafico.h"
+
+1525369930 source:c:\nanobots\tp2 - personas\altapersona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Persona.h"
+
+1525196432 source:c:\nanobots\tp_laboratorio_1\tp2 - personas\main.c
+	<string.h>
+	"Persona.h"
+	"grafico.h"
+	"menuPantalla.h"
+
+1525196336 c:\nanobots\tp_laboratorio_1\tp2 - personas\persona.h
+	<stdbool.h>
+
+1525196366 c:\nanobots\tp_laboratorio_1\tp2 - personas\grafico.h
+
+1525196358 c:\nanobots\tp_laboratorio_1\tp2 - personas\menupantalla.h
+

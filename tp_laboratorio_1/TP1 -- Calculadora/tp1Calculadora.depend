@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1523639753 source:c:\atpcalculadora\tp1calculadora\funciones.c
+	"funciones.h"
+
+1523639464 c:\atpcalculadora\tp1calculadora\funciones.h
+
+1523639753 source:c:\atpcalculadora\tp1calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funcAux.h"
+
+1523639703 c:\atpcalculadora\tp1calculadora\funcaux.h
+
+1523639809 source:c:\atpcalculadora\tp1calculadora\funcaux.c
+	<stdio.h>
+	"funcAux.h"
+
